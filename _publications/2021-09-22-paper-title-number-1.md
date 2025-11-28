@@ -22,4 +22,4 @@ To solve the problem of automatically analyzing and evaluating the teaching cont
 
 [//]: # (git commit -m "update xxx")
 
-[//]: # (git push")
+[//]: # (git push)
