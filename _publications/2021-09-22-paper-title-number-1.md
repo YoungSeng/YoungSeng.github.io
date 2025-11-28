@@ -16,3 +16,10 @@ citation: '<b>Sicheng Yang</b>, Yaping Dai, Simin Li, Kaixin Zhao. (2021). &quot
 To solve the problem of automatically analyzing and evaluating the teaching content and effect of teachers in massive open online courses (MOOC) environment, an automatic teaching evaluation system is proposed in this paper to evaluate the sentiment of teacher and content of “online classes”. Firstly, the multimodal sentiment analysis model based on voice and text is built, which can determine the degree of “positive” and “negative” sentiments of teachers. Then, the textbook and Baidu Encyclopedia are used as two kinds of syllabus. The “3D matching degree decision model” is built to compare the differences between the teaching content and the syllabus, then the matching degree of teaching content is given. According to the results of the sentiment analysis and matching with syllabus, the teaching quality can be effectively judged. Finally, experiments in are conducted in MOOC environment. The results of the automatic analysis and evaluation system used for teaching quality perform well.
 
 [Browse paper here](/files/An_Automatic_Analysis_and_Evaluation_System_Used_for_Teaching_Quality_in_MOOC_Environment.pdf)
+
+
+[//]: # (git add .)
+
+[//]: # (git commit -m "update xxx")
+
+[//]: # (git push")
