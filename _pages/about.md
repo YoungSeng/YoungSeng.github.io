@@ -12,7 +12,7 @@ redirect_from:
 
 This is SiCheng Yang's home on the web!
 
-I'm a Master's student at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) , supervised by [Prof. You He](https://www.sigs.tsinghua.edu.cn/heyou/main.htm).
+I’m a Ph.D. student at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/) , supervised by [Prof. You He](https://www.sigs.tsinghua.edu.cn/heyou/main.htm).
 
 <!-- in the Institute of Data and Information at [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), supervised by [Prof. Zhiyong Wu](https://www.sigs.tsinghua.edu.cn/zywu/main.htm).-->
 
