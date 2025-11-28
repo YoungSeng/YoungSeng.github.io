@@ -1,0 +1,16 @@
+.education-item {
+    display: flex;
+    border: 1px solid #000;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.education-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.education-details {
+    flex-grow: 1;
+}
