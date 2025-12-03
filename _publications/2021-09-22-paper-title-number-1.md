@@ -18,8 +18,8 @@ To solve the problem of automatically analyzing and evaluating the teaching cont
 [Browse paper here](/files/An_Automatic_Analysis_and_Evaluation_System_Used_for_Teaching_Quality_in_MOOC_Environment.pdf)
 
 
-[//]: # (git add .)
+<!-- (git add .) -->
 
-[//]: # (git commit -m "update xxx")
+<!-- (git commit -m "update xxx") -->
 
-[//]: # (git push)
+<!-- (git push) -->
