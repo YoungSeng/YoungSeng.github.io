@@ -86,7 +86,7 @@ author:
   location         : "ShenZhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Qy-LKSkAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=Qy-LKSkAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
