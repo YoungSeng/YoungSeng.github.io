@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "SiCheng Yang"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Student @ Tsinghua University | Speech Foundation Models & Full-Duplex Interaction"
+  avatar           : "welcome.png"    # profile.png
+  bio              : "Student @ Tsinghua University | multimodal learning, particularly speech and audio"   # Ph.D. Student | Speech Foundation Models & Full-Duplex Interaction
   location         : "ShenZhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
