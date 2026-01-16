@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "SiCheng Yang"
+  name             : "Sicheng Yang"
   avatar           : "welcome.png"    # profile.png
   bio              : "Student @ Tsinghua University | multimodal learning, particularly speech and audio"   # Ph.D. Student | Speech Foundation Models & Full-Duplex Interaction
   location         : "ShenZhen, China"

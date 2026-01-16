@@ -10,7 +10,7 @@ redirect_from:
 
 # Hello！
 
-This is SiCheng Yang's home on the web!
+This is Sicheng Yang's home on the web!
 
 [//]: # (I’m a student at [Tsinghua Shenzhen International Graduate School]&#40;https://www.sigs.tsinghua.edu.cn/&#41;, [Tsinghua University]&#40;https://www.tsinghua.edu.cn/&#41;.)
 
